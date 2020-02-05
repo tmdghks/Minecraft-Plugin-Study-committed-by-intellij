@@ -1,0 +1,12 @@
+name: IDontKnow
+description: i dont know
+main: tmdghks.tutorial.MyPlugin
+version: 1.0.0
+author: tmdghks
+
+commands:
+  hi:
+    description: This is a demo command.
+    usage: /<command>
+    permission: permission
+    permission-message: You don't have <permission>
